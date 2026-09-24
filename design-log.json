@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-09-24",
+    "day_type": "D3",
+    "topic": "Doppler Effect Quiz",
+    "status": "posted",
+    "slide_archetypes": [
+      "Big Number/Contrast",
+      "Quiz Card",
+      "Split",
+      "Quiz Card",
+      "Minimal Text",
+      "Stat/Answer Card",
+      "Pillow Diagram",
+      "Pull Quote",
+      "Minimal Text/CTA"
+    ],
+    "slide1_archetype": "Big Number/Contrast",
+    "fonts": {
+      "header": "Bebas Neue",
+      "body": "Poppins"
+    },
+    "background_moods": [
+      "dark",
+      "cream",
+      "dark",
+      "dark",
+      "dark",
+      "cream",
+      "dark",
+      "dark",
+      "dark"
+    ],
+    "photo_treatment": null,
+    "photo_credits": [],
+    "media_id": "17934160332401942"
+  }
+]
